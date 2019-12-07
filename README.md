@@ -3,7 +3,7 @@ This reprository provides the python script of the MSc Thesis for TU Delft, by E
 
 The script includes the following topics:
 
-1. Data preperation
+1. Data preparation
       * Import tools and Data
       * Functions for NDVI and Precipitation graphs
       * Mean and Cumm Precip and Evap Reanalysis Data
